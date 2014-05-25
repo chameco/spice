@@ -1,5 +1,3 @@
-(use s awful)
-
 (load "spice.scm")
 
 (enable-sxml #t)
