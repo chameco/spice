@@ -1,0 +1,9 @@
+(
+ (license "BSD")
+
+ (category math)
+
+ (needs s bricko)
+
+ (author "Samuel Breese")
+ (synopsis "Common financial and statistical routines. Fetches quotes from Google Finance"))
